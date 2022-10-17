@@ -1,4 +1,5 @@
 # Git commands
+
 ## git init
 Initializes an empty git repository    
 ![git_init](../images/git_init.png?raw=true)  
@@ -54,6 +55,4 @@ A git command used to integrate changes from divergent branches.
 ## git log
 This command is used to list the version history for the current branch.  
 ![git log](../images/git_log.png?raw=true)
-
-
 
